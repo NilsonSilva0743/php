@@ -5,4 +5,9 @@
 
 $teste = "olá memoria";
 
+if($teste == ""){
+ echo "nada na memoria!";
+}else{
+ echo $teste;
+}
  ?>
