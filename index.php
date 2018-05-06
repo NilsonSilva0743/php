@@ -3,6 +3,6 @@
 
  echo "Ola UDMY e HCODE";
 
-
+$teste = "olá memoria";
 
  ?>
