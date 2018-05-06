@@ -4,5 +4,5 @@
  echo "Ola UDMY e HCODE";
 
 $teste = "olá memoria";
-
+$outro = 123;
  ?>
